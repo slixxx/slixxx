@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://slixxx.github.io//github/sitemap.xml 
